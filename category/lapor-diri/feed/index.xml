@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Lapor Diri &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<atom:link href="/category/lapor-diri/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
 	<lastBuildDate>Thu, 14 Sep 2023 10:51:37 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,21 +21,21 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
+	<url>./../../../wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
 	<title>Lapor Diri &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<link>/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Ketentuan Lapor Diri PPG dalam Jabatan Tahun 2023</title>
-		<link>/ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/</link>
+		<link>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/index.html</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 10:51:37 +0000</pubDate>
 				<category><![CDATA[Lapor Diri]]></category>
 		<category><![CDATA[PPG Dalam Jabatan]]></category>
-		<guid isPermaLink="false">/?p=5776</guid>
+		<guid isPermaLink="false">./../../../index.html?p=5776</guid>
 
 					<description><![CDATA[Ketentuan Lapor Diri calon mahasiswa PPG Dalam Jabatan Tahun 2023 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi. KETENTUAN LAPOR DIRI MAHASISWA PPG DALAM JABATAN LPTK Universitas Jember: Mengisi Biodata Mahasiswa (melalui siakad.unej.ac.id/ppg/login) Format A1 (tanpa materai) dan Pakta [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Ketentuan Lapor Diri calon mahasiswa PPG Dalam Jabatan Tahun 2023 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi.</p>

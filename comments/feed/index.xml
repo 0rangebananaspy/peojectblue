@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Pendidikan Profesi Guru &#8211; Universitas Jember	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
 	<lastBuildDate>Fri, 12 Jul 2024 17:18:21 +0000</lastBuildDate>
 	<sy:updatePeriod>

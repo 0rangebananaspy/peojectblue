@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Stories &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<atom:link href="/web-stories/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
 	<lastBuildDate>Fri, 12 Jul 2024 17:18:21 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,28 +21,28 @@
 	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
-	<url>/wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
+	<url>./../../wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
 	<title>Stories &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<link>/</link>
+	<link>./../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Pengumuman</title>
-		<link>/web-stories/pengumuman/</link>
+		<link>./../pengumuman/index.html</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Fri, 12 Jul 2024 17:06:33 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=web-story#038;p=5993</guid>
+				<guid isPermaLink="false">./../../index.html?post_type=web-story#038;p=5993</guid>
 
 					<description><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
-			<a href="/web-stories/pengumuman/">
+			<a href="./../pengumuman/index.html">
 									<img
-						src="/wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp"
+						src="./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp"
 						width="360"
 						height="600"
 						alt="Pengumuman"
-													srcset="/wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp 640w, /wp-content/uploads/2024/07/cropped-footerheroppgunej2024-225x300.webp 225w, /wp-content/uploads/2024/07/cropped-footerheroppgunej2024-150x200.webp 150w"
+													srcset="./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp 640w, ./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024-225x300.webp 225w, ./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024-150x200.webp 150w"
 																			sizes="(max-width: 640px) 100vw, 640px"
 												loading="lazy"
 						decoding="async"
@@ -51,13 +51,13 @@
 		</div>
 		]]></description>
 										<content:encoded><![CDATA[		<div class="wp-block-web-stories-embed alignnone">
-			<a href="/web-stories/pengumuman/">
+			<a href="./../pengumuman/index.html">
 									<img
-						src="/wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp"
+						src="./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp"
 						width="360"
 						height="600"
 						alt="Pengumuman"
-													srcset="/wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp 640w, /wp-content/uploads/2024/07/cropped-footerheroppgunej2024-225x300.webp 225w, /wp-content/uploads/2024/07/cropped-footerheroppgunej2024-150x200.webp 150w"
+													srcset="./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024.webp 640w, ./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024-225x300.webp 225w, ./../../wp-content/uploads/2024/07/cropped-footerheroppgunej2024-150x200.webp 150w"
 																			sizes="(max-width: 640px) 100vw, 640px"
 												loading="lazy"
 						decoding="async"
