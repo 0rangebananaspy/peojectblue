@@ -100,7 +100,16 @@ p{font-size: var(--wp--preset--font-size--xsmall);line-height: 1.4;}
 <link rel="shortlink" href="./../index.html?p=196">
 <link rel="alternate" type="application/json+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2Fukmppg-periode-v-tahun-2018-universitas-jember%2F">
 <link rel="alternate" type="text/xml+oembed" href="./../wp-json/oembed/1.0/embed/index.html?url=https%3A%2F%2F%2Fukmppg-periode-v-tahun-2018-universitas-jember%2F#038;format=xml">
-<script id="wp-load-polyfill-importmap">
+		<link rel="manifest" href="./../wp-json/wp/v2/web-app-manifest/index.html">
+					<meta name="theme-color" content="#fff">
+								<meta name="apple-mobile-web-app-capable" content="yes">
+				<meta name="mobile-web-app-capable" content="yes">
+
+				<link rel="apple-touch-startup-image" href="./../wp-content/uploads/2024/07/maskable-unej-icon-300x300.png">
+
+				<meta name="apple-mobile-web-app-title" content="Pendidikan Profesi Guru - Universitas Jember">
+		<meta name="application-name" content="Pendidikan Profesi Guru - Universitas Jember">
+		<script id="wp-load-polyfill-importmap">
 ( HTMLScriptElement.supports && HTMLScriptElement.supports("importmap") ) || document.write( '<script src=".//wp-includes/js/dist/vendor/wp-polyfill-importmap.min.js?ver=1.8.2"><\/scr' + 'ipt>' );
 </script>
 <script type="importmap" id="wp-importmap">{"imports":{"@wordpress\/interactivity":".\/\/wp-includes\/js\/dist\/interactivity.min.js?ver=6.5.5"}}</script>
@@ -287,7 +296,16 @@ Tempat           : Laboratorium Komputer Gedung H Lantai 2</p>
 </div>
 </footer>
 </div>
-<script id="wp-block-template-skip-link-js-after">( function() {
+	<script type="module">import { Workbox } from ".\/\/wp-content\/plugins\/pwa\/wp-includes\/js\/workbox-v7.0.0\/workbox-window.prod.js";
+
+		if ( 'serviceWorker' in navigator ) {
+			window.wp = window.wp || {};
+			window.wp.serviceWorkerWindow = new Workbox(
+				".\/\/wp.serviceworker",
+				{"scope":"\/"}			);
+			window.wp.serviceWorkerWindow.register();
+		}</script>
+	<script id="wp-block-template-skip-link-js-after">( function() {
 		var skipLinkTarget = document.querySelector( 'main' ),
 			sibling,
 			skipLinkTargetID,
