@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.5</generator>
+	<generator>https://wordpress.org/?v=6.6</generator>
 
 <image>
 	<url>./../../../wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
@@ -30,6 +30,7 @@
 	<item>
 		<title>Yuk! Jadi guru melalui program PPG Prajabatan Tahun 2023!</title>
 		<link>./../../../yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/index.html</link>
+					<comments>./../../../yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 15:27:36 +0000</pubDate>
@@ -40,12 +41,15 @@
 										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-5782" src="./../../../wp-content/uploads/2023/10/lptk_-03-290x300.jpg" alt="" width="290" height="300" /></p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>./../../../yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ketentuan Lapor Diri PPG dalam Jabatan Tahun 2023</title>
 		<link>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/index.html</link>
+					<comments>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 10:51:37 +0000</pubDate>
@@ -76,6 +80,8 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 <p>Berbagai pertanyaan dapat disampaikan melalui official kami di menu <a href="https://ppg.fkip.unej.ac.id/kontak/">&#8220;KONTAK&#8221;</a></p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
