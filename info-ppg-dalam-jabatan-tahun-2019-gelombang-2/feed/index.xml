@@ -11,11 +11,25 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
-	<lastBuildDate>Mon, 08 Apr 2019 09:21:04 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 22 Jul 2024 23:40:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.6</generator>
-</channel>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
+	<item>
+		<title>
+		By: Recomandare Binance		</title>
+		<link>./../index.html#comment-4390</link>
+
+		<dc:creator><![CDATA[Recomandare Binance]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2024 23:40:33 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=252#comment-4390</guid>
+
+					<description><![CDATA[Thank you for your sharing. I am worried that I lack creative ideas. It is your article that makes me full of hope. Thank you. But, I have a question, can you help me?]]></description>
+			<content:encoded><![CDATA[<p>Thank you for your sharing. I am worried that I lack creative ideas. It is your article that makes me full of hope. Thank you. But, I have a question, can you help me?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
