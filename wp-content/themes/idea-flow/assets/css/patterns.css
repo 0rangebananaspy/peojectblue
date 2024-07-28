@@ -89,13 +89,6 @@
 		width: 100% !important;
 	}
 
-	/* footer-001 start */
-	.superbthemes-footer-001 {
-		text-align: center;
-	}
-	.superbthemes-footer-001 ul {
-		justify-content: center!important;
-	}
 }
 
 @media only screen and (max-width: 599px) { 
@@ -264,4 +257,21 @@
     -o-transition: .1s;
     transition: .1s;
     border: 1px solid var(--wp--preset--color--mono-2);
+}
+
+
+/* Footer 001 */
+@media only screen and (max-width: 781px) {
+	.superbthemes-footer-center-socials-mobile .wp-block-social-links {
+		justify-content: center !important;
+		float: none !important;
+		margin-left: 0px !important;
+		margin-right: 0px !important;
+	}
+	.superbthemes-footer-001 {
+		text-align: center;
+	}
+	.superbthemes-footer-001 ul {
+		justify-content: center!important;
+	}
 }
