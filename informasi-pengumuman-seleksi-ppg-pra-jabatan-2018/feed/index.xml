@@ -11,25 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
-	<lastBuildDate>Mon, 22 Jul 2024 09:56:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 10 Jul 2018 21:54:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
-	<item>
-		<title>
-		By: Crea account personale		</title>
-		<link>./../index.html#comment-4389</link>
-
-		<dc:creator><![CDATA[Crea account personale]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2024 09:56:18 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=147#comment-4389</guid>
-
-					<description><![CDATA[Thanks for sharing. I read many of your blog posts, cool, your blog is very good.]]></description>
-			<content:encoded><![CDATA[<p>Thanks for sharing. I read many of your blog posts, cool, your blog is very good.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>

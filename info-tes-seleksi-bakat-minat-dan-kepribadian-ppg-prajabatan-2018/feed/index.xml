@@ -11,25 +11,11 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
-	<lastBuildDate>Mon, 22 Jul 2024 05:07:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 25 Jun 2018 05:41:38 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.6.1</generator>
-	<item>
-		<title>
-		By: Binance Account		</title>
-		<link>./../index.html#comment-4388</link>
-
-		<dc:creator><![CDATA[Binance Account]]></dc:creator>
-		<pubDate>Mon, 22 Jul 2024 05:07:45 +0000</pubDate>
-		<guid isPermaLink="false">./../../index.html?p=137#comment-4388</guid>
-
-					<description><![CDATA[Can you be more specific about the content of your article? After reading it, I still have some doubts. Hope you can help me.]]></description>
-			<content:encoded><![CDATA[<p>Can you be more specific about the content of your article? After reading it, I still have some doubts. Hope you can help me.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
