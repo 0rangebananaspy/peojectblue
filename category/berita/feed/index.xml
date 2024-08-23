@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Berita &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<title>Berita &#8211; PPG &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
+	<atom:link href="/category/berita/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
-	<lastBuildDate>Sun, 28 Jul 2024 20:25:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 23 Aug 2024 15:05:25 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,22 +21,44 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
-	<title>Berita &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<link>./../../../index.html</link>
+	<url>/wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
+	<title>Berita &#8211; PPG &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
+		<title>Panduan Penggunaan Fitur Sertifikasi Pendidik di Aplikasi PMM</title>
+		<link>/panduan-penggunaan-fitur-sertifikasi-pendidik-di-aplikasi-pmm/</link>
+		
+		<dc:creator><![CDATA[ppg]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 03:27:08 +0000</pubDate>
+				<category><![CDATA[Berita]]></category>
+		<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=6085</guid>
+
+					<description><![CDATA[Berikut informasi panduan penggunaan fitur Sertifikasi Pendidik di aplikasi PMM yang telah dibuat oleh PMM Kemdikbud]]></description>
+										<content:encoded><![CDATA[
+<p>Berikut informasi panduan penggunaan fitur Sertifikasi Pendidik di aplikasi PMM yang telah dibuat oleh PMM Kemdikbud</p>
+
+
+
+<iframe width="1024" height="640" src="https://www.youtube.com/embed/W2OdthF5JO4?si=BwT8GpSG3Fk3xAAh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Tata Cara Lapor Diri Peserta PPG bagi Guru Tertentu (Daljab)</title>
-		<link>./../../../tata-cara-lapor-diri-peserta-ppg-bagi-guru-tertentu-daljab/index.html</link>
+		<link>/tata-cara-lapor-diri-peserta-ppg-bagi-guru-tertentu-daljab/</link>
 		
 		<dc:creator><![CDATA[ppg]]></dc:creator>
 		<pubDate>Wed, 24 Jul 2024 01:00:00 +0000</pubDate>
 				<category><![CDATA[Berita]]></category>
 		<category><![CDATA[Lapor Diri]]></category>
 		<category><![CDATA[PPG Dalam Jabatan]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=6080</guid>
+		<guid isPermaLink="false">/?p=6080</guid>
 
 					<description><![CDATA[Calon Mahasiswa atau Peserta PPG bagi Guru Tertentu yang telah dipanggil melalui laman SIMPKB dan melakukan Kesediaan wajib melakukan lapor diri di LPTK Universitas Jember agar bisa menjadi Mahasiswa PPG di Universitas Jember. Adapun langkah untuk melakukan lapor diri adalah sebagai berikut]]></description>
 										<content:encoded><![CDATA[
@@ -52,13 +74,13 @@
 			</item>
 		<item>
 		<title>Piloting PPG bagi Guru Tertentu</title>
-		<link>./../../../piloting-ppg-bagi-guru-tertentu/index.html</link>
+		<link>/piloting-ppg-bagi-guru-tertentu/</link>
 		
 		<dc:creator><![CDATA[ppg]]></dc:creator>
 		<pubDate>Tue, 23 Jul 2024 02:00:00 +0000</pubDate>
 				<category><![CDATA[Berita]]></category>
 		<category><![CDATA[PPG Dalam Jabatan]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=6064</guid>
+		<guid isPermaLink="false">/?p=6064</guid>
 
 					<description><![CDATA[Apa Itu Piloting PPG Bagi Guru Tertentu (Dalam Jabatan)? Piloting  PPG bagi Guru Tertentu hadir sebagai tindak lanjut dari Permendikbudristek No. 19 Tahun 2024 Tentang PPG. Perbedaan Piloting PPG bagi Guru Tertentu dan PPG Dalam Jabatan yang telah berjalan sebelumnya selama ini, yaitu pada sistem pembelajaran yang dilakukan. Pada pelaksanaan PPG bagi Guru Tertentu dan piloting yang tengah berjalan, [&#8230;]]]></description>
 										<content:encoded><![CDATA[<h2 id="hero-categories-name">Apa Itu <em>Piloting</em> PPG Bagi Guru Tertentu (Dalam Jabatan)?</h2>
@@ -70,7 +92,7 @@
 <h2 id="h-01J354V53J51S2GCNRD3CTE45T">Lini masa <em>Piloting</em> PPG bagi Guru Tertentu</h2>
 
 
-<figure class="wp-block-image aligncenter size-large is-resized"><img decoding="async" class="wp-image-6066" src="./../../../wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-1024x537.png" alt="" width="822" height="431" srcset="./../../../wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-1024x537.png 1024w, ./../../../wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-300x157.png 300w, ./../../../wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-768x403.png 768w, ./../../../wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-150x79.png 150w, ./../../../wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT.png 1274w" sizes="(max-width: 822px) 100vw, 822px" /></figure>
+<figure class="wp-block-image aligncenter size-large is-resized"><img loading="lazy" decoding="async" class="wp-image-6066" src="/wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-1024x537.png" alt="" width="822" height="431" srcset="/wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-1024x537.png 1024w, /wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-300x157.png 300w, /wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-768x403.png 768w, /wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT-150x79.png 150w, /wp-content/uploads/2024/07/jadwal-piloting-PPG-BGT.png 1274w" sizes="(max-width: 822px) 100vw, 822px" /></figure>
 ]]></content:encoded>
 					
 		

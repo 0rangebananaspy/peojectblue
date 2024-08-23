@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>techies &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
-	<link>./../../../index.html</link>
+	<title>techies &#8211; PPG &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
+	<atom:link href="/author/techies/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
 	<description>Bergerak Memenuhi Guru Profesional</description>
 	<lastBuildDate>Sat, 13 Jul 2024 02:36:56 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,41 +21,41 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>./../../../wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
-	<title>techies &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
-	<link>./../../../index.html</link>
+	<url>/wp-content/uploads/2024/07/maskable-unej-icon-150x150.png</url>
+	<title>techies &#8211; PPG &#8211; Pendidikan Profesi Guru &#8211; Universitas Jember</title>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Yuk! Jadi guru melalui program PPG Prajabatan Tahun 2023!</title>
-		<link>./../../../yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/index.html</link>
-					<comments>./../../../yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/index.html#respond</comments>
+		<link>/yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/</link>
+					<comments>/yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/#respond</comments>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 15:27:36 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5786</guid>
+		<guid isPermaLink="false">/?p=5786</guid>
 
 					<description><![CDATA[Dalam rangka percepatan pemenuhan kebutuhan guru pada beberapa bidang studi pada jenjang sekolah dasar dan menengah, Direktorat Jenderal Guru dan Tenaga Kependidikan (Ditjen GTK), Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi kembali mengundang Putra/Putri terbaik bangsa yang memiliki minat, bakat, dan panggilan jiwa menjadi guru untuk mengikuti seleksi calon Mahasiswa Program Pendidikan Profesi Guru (PPG) Prajabatan Tahun 2024.]]></description>
-										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-5782" src="./../../../wp-content/uploads/2023/10/lptk_-03-290x300.jpg" alt="" width="290" height="300" /></p>
+										<content:encoded><![CDATA[<p><img fetchpriority="high" decoding="async" class="alignnone size-medium wp-image-5782" src="/wp-content/uploads/2023/10/lptk_-03-290x300.jpg" alt="" width="290" height="300" /></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/yuk-jadi-guru-melalui-program-ppg-prajabatan-tahun-2023/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ketentuan Lapor Diri PPG dalam Jabatan Tahun 2023</title>
-		<link>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/index.html</link>
-					<comments>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/index.html#respond</comments>
+		<link>/ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/</link>
+					<comments>/ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/#respond</comments>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Thu, 14 Sep 2023 10:51:37 +0000</pubDate>
 				<category><![CDATA[Lapor Diri]]></category>
 		<category><![CDATA[PPG Dalam Jabatan]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5776</guid>
+		<guid isPermaLink="false">/?p=5776</guid>
 
 					<description><![CDATA[Ketentuan Lapor Diri calon mahasiswa PPG Dalam Jabatan Tahun 2023 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi. KETENTUAN LAPOR DIRI MAHASISWA PPG DALAM JABATAN LPTK Universitas Jember: Mengisi Biodata Mahasiswa (melalui siakad.unej.ac.id/ppg/login) Format A1 (tanpa materai) dan Pakta [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Ketentuan Lapor Diri calon mahasiswa PPG Dalam Jabatan Tahun 2023 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi.</p>
@@ -80,19 +80,19 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 <p>Berbagai pertanyaan dapat disampaikan melalui official kami di menu <a href="https://ppg.fkip.unej.ac.id/kontak/">&#8220;KONTAK&#8221;</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>./../../../ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/feed/index.html</wfw:commentRss>
+					<wfw:commentRss>/ketentuan-lapor-diri-ppg-dalam-jabatan-tahun-2023/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pelaksanaan Lapor Diri PPG PraJabatan Gelombang 1 Tahun 2023</title>
-		<link>./../../../pelaksanaan-lapor-diri-ppg-prajabatan-gelombang-1-tahun-2023/index.html</link>
+		<link>/pelaksanaan-lapor-diri-ppg-prajabatan-gelombang-1-tahun-2023/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Sun, 03 Sep 2023 07:59:56 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5746</guid>
+		<guid isPermaLink="false">/?p=5746</guid>
 
 					<description><![CDATA[Penetapan calon mahasiswa PPG Prajabatan Gelombang 1 Tahun 2023 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi. KETENTUAN LAPOR DIRI MAHASISWA PPG PRAJABATAN LPTK UNIVERSITAS JEMBER: Pakta Integritas bermaterai 10.000 (Format diunduh dari SIMPKB) =&#62; scan format pdf (maks [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Penetapan calon mahasiswa PPG Prajabatan Gelombang 1 Tahun 2023 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi.</p>
@@ -136,12 +136,12 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap dilengkapi mem
 			</item>
 		<item>
 		<title>Ketentuan Lapor Diri Calon Mahasiswa PPG Prajabatan LPTK UNIVERSITAS JEMBER</title>
-		<link>./../../../ketentuan-lapor-diri-calon-mahasiswa-ppg-prajabatan-lptk-universitas-jember/index.html</link>
+		<link>/ketentuan-lapor-diri-calon-mahasiswa-ppg-prajabatan-lptk-universitas-jember/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Thu, 31 Aug 2023 09:00:43 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5749</guid>
+		<guid isPermaLink="false">/?p=5749</guid>
 
 					<description><![CDATA[Persyaratan/Ketentuan Lapor Diri Calon Mahasiswa PPG Prajabatan FKIP Universitas Jember sesuai persyaratan lapor diri dari PPG Kemdikbud dan beberapa berkas tambahan untuk kebutuhan PPG FKIP Universitas Jember. Ketentuan Lapor Diri Calon Mahasiswa PPG Prajabatan FKIP Universitas Jember Tahun 2023: Pakta Integritas bermaterai 10.000 (Format diunduh dari SIMPKB) =&#62; scan format pdf (maks 5mb) Mengisi Biodata [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Persyaratan/Ketentuan Lapor Diri Calon Mahasiswa PPG Prajabatan FKIP Universitas Jember sesuai persyaratan lapor diri dari PPG Kemdikbud dan beberapa berkas tambahan untuk kebutuhan PPG FKIP Universitas Jember.</p>
@@ -167,12 +167,12 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap dilengkapi mem
 			</item>
 		<item>
 		<title>Pelaksanaan Lapor Diri PPG Dalam Jabatan Tahun 2023 Angkatan I</title>
-		<link>./../../../pelaksanaan-lapor-diri-ppg-dalam-jabatan-tahun-2023-angkatan-i/index.html</link>
+		<link>/pelaksanaan-lapor-diri-ppg-dalam-jabatan-tahun-2023-angkatan-i/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Wed, 26 Apr 2023 23:55:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5727</guid>
+		<guid isPermaLink="false">/?p=5727</guid>
 
 					<description><![CDATA[Penetapan calon mahasiswa PPG Dalam Jabatan Tahun 2023 Angkatan I dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi. KETENTUAN LAPOR DIRI MAHASISWA PPG DALAM JABATAN LPTK Universitas Jember: Format A1 (tanpa materai) dan Pakta Integritas bermaterai 10.000 (Format diunduh [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Penetapan calon mahasiswa PPG Dalam Jabatan Tahun 2023 Angkatan I dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi.</p>
@@ -197,7 +197,7 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 <p>Berbagai informasi dapat ditanyakan melalui Group Telegram. Untuk bergabung di group <b>Telegram</b> Peserta PPG Dalam Jabatan Tahun 2023 Angkatan I silahkan <a class=\"custom-button\" href=\"https://t.me/+YK8q1Xy67F5kMjQ1\" target=\"_blank\" rel=\"noopener noreferrer\">KLIK DISINI</a></p>
 <h5 style=\"text-align: center\">JADWAL KEGIATAN PPG DALAM JABATAN<br />
 TAHUN 2023 ANGKATAN I</h5>
-<p><img class=\"size-large wp-image-5729 aligncenter\" src=\"./../../../wp-content/uploads/2023/04/WhatsApp-Image-2023-04-26-at-11.55.44-e1682553195166-1024x571.jpeg\" alt=\"\" width=\"640\" height=\"357\" /></p>
+<p><img class=\"size-large wp-image-5729 aligncenter\" src=\"/wp-content/uploads/2023/04/WhatsApp-Image-2023-04-26-at-11.55.44-e1682553195166-1024x571.jpeg\" alt=\"\" width=\"640\" height=\"357\" /></p>
 <p><strong>Hasil Lapor diri</strong> dapat dilihat melalui link <a class=\"custom-button\" href=\"https://docs.google.com/spreadsheets/d/1QYFrVDN1CBmnuhplDu59bzkdM7P6sMKdbnzss8Iojvo/edit?usp=sharing\">KLIK DISINI</a> (update berkala)</p>
 ]]></content:encoded>
 					
@@ -206,12 +206,12 @@ TAHUN 2023 ANGKATAN I</h5>
 			</item>
 		<item>
 		<title>Penetapan Calon Mahasiswa dan Mekanisme Lapor Diri PPG Dalam Jabatan Tahun 2023 Angkatan I</title>
-		<link>./../../../penetapan-calon-mahasiswa-dan-mekanisme-lapor-diri-ppg-dalam-jabatan-tahun-2023-angkatan-i/index.html</link>
+		<link>/penetapan-calon-mahasiswa-dan-mekanisme-lapor-diri-ppg-dalam-jabatan-tahun-2023-angkatan-i/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Wed, 19 Apr 2023 23:08:00 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5724</guid>
+		<guid isPermaLink="false">/?p=5724</guid>
 
 					<description><![CDATA[Penetapan calon mahasiswa PPG Dalam Jabatan (DalJab) Tahun 2022 Angkatan I berdasarkan surat Dirtjen GTK KemendikbudRistek nomor 0656/B2/GT.00.02/2023 tentang Penetapan Mahasiswa dan Mekanisme Lapor Diri PPG Dalam Jabatan Tahun 2023 Angkatan I, merupakan tindak lanjut dari surat Dirtjen GTK KemendikbudRistek nomor 0591/B2/GT.00.02/2023 tentang Konfirmasi Kesediaan Calon Mahasiswa Pendidikan Profesi Guru (PPG) Dalam Jabatan Tahun 2023 [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Penetapan calon mahasiswa PPG Dalam Jabatan (DalJab) Tahun 2022 Angkatan I berdasarkan surat Dirtjen GTK KemendikbudRistek <strong>nomor 0656/B2/GT.00.02/2023 tentang Penetapan Mahasiswa dan Mekanisme Lapor Diri PPG Dalam Jabatan Tahun 2023 Angkatan I</strong>, merupakan tindak lanjut dari surat Dirtjen GTK KemendikbudRistek <strong>nomor 0591/B2/GT.00.02/2023 tentang Konfirmasi Kesediaan Calon Mahasiswa Pendidikan Profesi Guru (PPG) Dalam Jabatan Tahun 2023 Angkatan I</strong>. Pendidikan Profesi Guru LPTK Universitas Jember menyampaikan Calon Mahasiswa PPG DalJab Tahun 2023 Angkatan I dapat dilihat pada <a href=\"https://drive.google.com/file/d/1PR9aL71-lr7fzidcomZ9cWMAY9hbelmR/view?usp=share_link\"><strong>lampiran 1</strong></a>.</p>
@@ -228,12 +228,12 @@ TAHUN 2023 ANGKATAN I</h5>
 			</item>
 		<item>
 		<title>Pelaksanaan Lapor Diri PPG PraJabatan Gelombang 2 Tahun 2022</title>
-		<link>./../../../pelaksanaan-lapor-diri-ppg-prajabatan-gelombang-2-tahun-2022/index.html</link>
+		<link>/pelaksanaan-lapor-diri-ppg-prajabatan-gelombang-2-tahun-2022/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Wed, 30 Nov 2022 00:30:45 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5705</guid>
+		<guid isPermaLink="false">/?p=5705</guid>
 
 					<description><![CDATA[Penetapan calon mahasiswa PPG Prajabatan Gelombang 2 Tahun 2022 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi. KETENTUAN LAPOR DIRI MAHASISWA PPG PRAJABATAN LPTK UNIVERSITAS JEMBER: Pakta Integritas bermaterai 10.000 (Format diunduh dari SIMPKB) =&#62; scan format pdf (maks [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Penetapan calon mahasiswa PPG Prajabatan Gelombang 2 Tahun 2022 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi.</p>
@@ -276,12 +276,12 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 			</item>
 		<item>
 		<title>Penetapan Calon Mahasiswa dan Mekanisme Lapor Diri PPG Prajabatan Gelombang 2 Tahun 2022</title>
-		<link>./../../../penetapan-calon-mahasiswa-dan-mekanisme-lapor-diri-ppg-prajabatan-gelombang-2-tahun-2022/index.html</link>
+		<link>/penetapan-calon-mahasiswa-dan-mekanisme-lapor-diri-ppg-prajabatan-gelombang-2-tahun-2022/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Tue, 29 Nov 2022 20:00:20 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5715</guid>
+		<guid isPermaLink="false">/?p=5715</guid>
 
 					<description><![CDATA[Penetapan calon mahasiswa PPG Prajabatan Gelombang 2 Tahun 2022 berdasarkan surat Dirtjen GTK KemendikbudRistek nomor 2679/B2/GT.00.08/2022 tentang Persiapan Pelaksanaan Perkuliahan PPG Prajabatan Gelombang 2 Tahun 2022. Pendidikan Profesi Guru LPTK Universitas Jember menyampaikan Calon Mahasiswa PPG Prajabatan Gelombang 2 Tahun 2022 dapat dilihat pada lampiran 1. &#160; Terkait Lapor Diri Calon Mahasiswa PPG Prajabatan Gelombang [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Penetapan calon mahasiswa PPG Prajabatan Gelombang 2 Tahun 2022 berdasarkan surat Dirtjen GTK KemendikbudRistek <strong>nomor 2679/B2/GT.00.08/2022 tentang Persiapan Pelaksanaan Perkuliahan PPG Prajabatan Gelombang 2 Tahun 2022</strong>. Pendidikan Profesi Guru LPTK Universitas Jember menyampaikan Calon Mahasiswa PPG Prajabatan Gelombang 2 Tahun 2022 dapat dilihat pada <a href=\"https://unejacid-my.sharepoint.com/:b:/g/personal/760017089_mail_unej_ac_id/EZWv7-ZaP3dNgjhzKvy6D1UBf5KjqmDwIVDnj34EKDC0RQ?e=bJiDup\"><strong>lampiran 1</strong></a>.</p>
@@ -298,16 +298,16 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 			</item>
 		<item>
 		<title>Agenda Pelaksanaan PPG Prajabatan Gelombang 2 Tahun 2022</title>
-		<link>./../../../agenda-pelaksanaan-ppg-prajabatan-gelombang-2-tahun-2022/index.html</link>
+		<link>/agenda-pelaksanaan-ppg-prajabatan-gelombang-2-tahun-2022/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Mon, 28 Nov 2022 07:00:22 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5701</guid>
+		<guid isPermaLink="false">/?p=5701</guid>
 
 					<description><![CDATA[Berikut kami informasikan lini masa pelaksanaan PPG  Prajabatan Gelombang 2 Tahun 2022]]></description>
 										<content:encoded><![CDATA[<p>Berikut kami informasikan lini masa pelaksanaan PPG  Prajabatan Gelombang 2 Tahun 2022</p>
-<p><img class=\"wp-image-5702  aligncenter\" src=\"./../../../wp-content/uploads/2022/11/2022-11-29-12_46_34-Linimasa-Konfirmasi-Lapor-diri-dan-Orientasi-PPG-Prajabatan-2022-Direktorat--300x214.png\" alt=\"\" width=\"403\" height=\"288\" /></p>
+<p><img class=\"wp-image-5702  aligncenter\" src=\"/wp-content/uploads/2022/11/2022-11-29-12_46_34-Linimasa-Konfirmasi-Lapor-diri-dan-Orientasi-PPG-Prajabatan-2022-Direktorat--300x214.png\" alt=\"\" width=\"403\" height=\"288\" /></p>
 ]]></content:encoded>
 					
 		
@@ -315,12 +315,12 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 			</item>
 		<item>
 		<title>Pelaksanaan Lapor Diri PPG Dalam Jabatan Kategori III (bagi Guru Belum Lulus UTN PLPG) Tahun 2022</title>
-		<link>./../../../pelaksanaan-lapor-diri-ppg-dalam-jabatan-kategori-iii-bagi-guru-belum-lulus-utn-plpg-tahun-2022/index.html</link>
+		<link>/pelaksanaan-lapor-diri-ppg-dalam-jabatan-kategori-iii-bagi-guru-belum-lulus-utn-plpg-tahun-2022/</link>
 		
 		<dc:creator><![CDATA[techies]]></dc:creator>
 		<pubDate>Wed, 09 Nov 2022 08:16:45 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">./../../../index.html?p=5690</guid>
+		<guid isPermaLink="false">/?p=5690</guid>
 
 					<description><![CDATA[Penetapan calon mahasiswa PPG Dalam Jabatan Kategori III (bagi Guru Belum Lulus UTN PLPG) Tahun 2022 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi. KETENTUAN LAPOR DIRI MAHASISWA PPG DALAM JABATAN LPTK Universitas Jember: Format A1 dan Pakta Integritas [&#8230;]]]></description>
 										<content:encoded><![CDATA[<p>Penetapan calon mahasiswa PPG Dalam Jabatan Kategori III (bagi Guru Belum Lulus UTN PLPG) Tahun 2022 dan mekanisme lapor diri dilakukan secara daring. Calon mahasiswa melaksanakan lapor diri secara daring untuk mengumpulkan dokumen sebagaimana terlampir melalui aplikasi masing-masing perguruan tinggi.</p>
@@ -345,7 +345,7 @@ ketentuan: warna latar belakang merah, mengenakan jas warna gelap, hijab warna h
 <p>Berbagai informasi dapat ditanyakan melalui Group Telegram. Untuk bergabung di group <b>Telegram</b> Peserta PPG Kategori III (bagi Guru Belum Lulus UTN PLPG) Tahun 2022 silahkan <a class=\"custom-button\" href=\"https://t.me/+74UaY3pUPHFiMDM1\" target=\"_blank\" rel=\"noopener noreferrer\">KLIK DISINI</a></p>
 <h5 style=\"text-align: center\">JADWAL KEGIATAN PPG DALAM JABATAN<br />
 KATEGORI III (bagi Guru Belum Lulus UTN PLPG) TAHUN 2022</h5>
-<p><img class=\"alignnone size-full wp-image-5694 aligncenter\" src=\"./../../../wp-content/uploads/2022/11/2022-11-09-15_14_32-Surat-OneDrive.png\" alt=\"\" width=\"666\" height=\"465\" /></p>
+<p><img class=\"alignnone size-full wp-image-5694 aligncenter\" src=\"/wp-content/uploads/2022/11/2022-11-09-15_14_32-Surat-OneDrive.png\" alt=\"\" width=\"666\" height=\"465\" /></p>
 <p>&nbsp;</p>
 ]]></content:encoded>
 					
