@@ -1,5 +1,0 @@
-# robots.txt Agustus 2024
-User-agent: *
-Disallow: 
-Disallow: /wp-includes/
-Sitemap: https://ppg.fkip.unej.ac.id/sitemap.xml
